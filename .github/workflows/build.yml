@@ -25,7 +25,7 @@ jobs:
 
       - name: Build EXE
         run: |
-          pyinstaller --onefile --windowed --name "CS2 Skin Calculator" skinport_calculator.py
+          pyinstaller --onefile --windowed --name "CS2 Skin Calculator" SkinportCalculator V3.py
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
