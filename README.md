@@ -1,6 +1,6 @@
  CS2 Skin Calculator
 
-A simple Python calculator for calculating Skinport fees and payouts for CS2 skins.
+A simple Python calculator for calculating Skinport fees for CS2 skins.
 
 Features :
 
